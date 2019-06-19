@@ -1,4 +1,4 @@
 <?php
-$r="Welcome";
+$r="Welcome dan selamat datang guys";
 echo $r;
 ?>
