@@ -1,3 +1,3 @@
 function message () {
-	alert("Welcome Manteman")
+	alert("Welcome Manteman selamat datang kembali")
 }
